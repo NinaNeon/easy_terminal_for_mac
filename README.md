@@ -1,0 +1,2 @@
+# easy_terminal_for_mac
+easy_terminal_for_mac
