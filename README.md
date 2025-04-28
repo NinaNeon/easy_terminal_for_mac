@@ -7,6 +7,6 @@ diskutil list
 <img width="893" alt="截圖 2025-04-28 中午12 03 53" src="https://github.com/user-attachments/assets/834f70a9-0d79-434c-b5eb-474bb5fd45a5" />
 
 ```bash
-diskutil eject disk2
+diskutil eject disk8
 ```
 可以試 diskutil unmountDisk force disk2 強制卸載（但通常不用）
