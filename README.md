@@ -1,3 +1,8 @@
+# 保持你的 Mac 醒著，不睡覺
+```bash
+caffeinate -i -t 86400
+```
+
 # easy_terminal_for_mac
 在 MacBook (M1) 上用 Terminal 安全 Eject 隨身碟的方法：
 
