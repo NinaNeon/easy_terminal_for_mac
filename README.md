@@ -2,6 +2,24 @@
 ```bash
 caffeinate -i -t 86400
 ```
+亂裝東西
+nina@ninadeMacBook-Air ~ % pyenv install 3.10.6
+pyenv global 3.10.6
+
+python-build: use openssl@3 from homebrew
+python-build: use readline from homebrew
+Downloading Python-3.10.6.tar.xz...
+-> https://www.python.org/ftp/python/3.10.6/Python-3.10.6.tar.xz
+Installing Python-3.10.6...
+python-build: use readline from homebrew
+python-build: use zlib from xcode sdk
+Installed Python-3.10.6 to /Users/nina/.pyenv/versions/3.10.6
+nina@ninadeMacBook-Air ~ % python --version
+
+Python 3.10.6
+nina@ninadeMacBook-Air ~ % 
+
+
 
 # easy_terminal_for_mac
 在 MacBook (M1) 上用 Terminal 安全 Eject 隨身碟的方法：
