@@ -2,6 +2,13 @@
 ```bash
 caffeinate -i -t 86400
 ```
+# 開webui
+```bash
+cd stable-diffusion-webui
+conda activate sdwebui
+./webui.sh
+```
+
 亂裝東西
 nina@ninadeMacBook-Air ~ % pyenv install 3.10.6
 pyenv global 3.10.6
