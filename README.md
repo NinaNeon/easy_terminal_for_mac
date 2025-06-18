@@ -1,7 +1,12 @@
 
 nina@nina-X550VX:~$ sudo ddcutil setvcp 10 30
+
 亮30
+
+
 nina@nina-X550VX:~$ sudo ddcutil setvcp 10 10
+
+
 亮10
 
 # 保持你的 Mac 醒著，不睡覺
