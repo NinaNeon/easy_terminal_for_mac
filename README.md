@@ -311,4 +311,10 @@ origin  git@github.com:NinaNeon/3D-Demo.git (fetch)
 origin  git@github.com:NinaNeon/3D-Demo.git (push)
 
 
+push
+git remote set-url origin git@github.com:NinaNeon/ODISE.git
+git remote -v
+git push -u origin HEAD
+
+
 
